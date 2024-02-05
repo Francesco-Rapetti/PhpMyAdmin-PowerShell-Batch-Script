@@ -8,5 +8,6 @@ set URL="http://localhost:%Port%"
 set DBLink="localhost:%Port%"
 
 cd %DBPath%
+@REM Starts with your default browser
 start "" %URL%
 php -S %DBLink%
