@@ -1,4 +1,4 @@
-@REM You can put this script in system environment variables path to lunch it with "pma" command 
+@REM You can put the folder of this script in system environment variables path to lunch it with "pma" command 
 @echo off
 @REM Change this to the path of your phpMyAdmin installation
 set DBPath="C:\Portable\phpMyAdmin-5.2.1-all-languages"
